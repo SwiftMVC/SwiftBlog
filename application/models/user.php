@@ -10,14 +10,6 @@ class User extends Shared\Model {
     /**
      * @column
      * @readwrite
-     * @primary
-     * @type autonumber
-     */
-    protected $_id;
-
-    /**
-     * @column
-     * @readwrite
      * @type text
      * @length 100
      * 
@@ -60,12 +52,5 @@ class User extends Shared\Model {
      * @label password
      */
     protected $_password;
-    
-    /**
-    * @column
-    * @readwrite
-    * @type boolean
-    */
-    protected $_admin = false;
 
 }

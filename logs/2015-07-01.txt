@@ -1,0 +1,875 @@
+[2015-07-01 08:25:21]framework.configuration.initialize.before: ini
+[2015-07-01 08:25:21]framework.configuration.initialize.after: ini
+[2015-07-01 08:25:21]framework.database.initialize.before: 
+[2015-07-01 08:25:21]framework.database.initialize.after: mysql
+[2015-07-01 08:25:21]framework.cache.initialize.before: 
+[2015-07-01 08:25:21]framework.cache.initialize.after: memcached
+[2015-07-01 08:25:21]framework.session.initialize.before: 
+[2015-07-01 08:25:21]framework.session.initialize.after: server
+[2015-07-01 08:25:22]framework.router.dispatch.before: home/index
+[2015-07-01 08:25:22]framework.controller.construct.before: Home
+[2015-07-01 08:25:22]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:25:22]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:25:22]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:25:22]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:25:22]framework.controller.construct.after: Home
+[2015-07-01 08:25:22]framework.router.dispatch.after: home/index, home, index
+Average: -0.0513253125, Longest: 0.009973, Shortest: -0.859398, Total: -0.820728
+[2015-07-01 08:27:25]framework.configuration.initialize.before: ini
+[2015-07-01 08:27:25]framework.configuration.initialize.after: ini
+[2015-07-01 08:27:25]framework.database.initialize.before: 
+[2015-07-01 08:27:25]framework.database.initialize.after: mysql
+[2015-07-01 08:27:25]framework.cache.initialize.before: 
+[2015-07-01 08:27:25]framework.cache.initialize.after: memcached
+[2015-07-01 08:27:25]framework.session.initialize.before: 
+[2015-07-01 08:27:25]framework.session.initialize.after: server
+[2015-07-01 08:27:25]framework.router.dispatch.before: home/index
+[2015-07-01 08:27:25]framework.controller.construct.before: Home
+[2015-07-01 08:27:25]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:27:25]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:27:25]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:27:25]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:27:25]framework.controller.construct.after: Home
+[2015-07-01 08:27:25]framework.router.dispatch.after: home/index, home, index
+Average: 0.003546875, Longest: 0.019104, Shortest: 0.00010899999999997, Total: 0.057211
+[2015-07-01 08:27:55]framework.configuration.initialize.before: ini
+[2015-07-01 08:27:55]framework.configuration.initialize.after: ini
+[2015-07-01 08:27:55]framework.database.initialize.before: 
+[2015-07-01 08:27:55]framework.database.initialize.after: mysql
+[2015-07-01 08:27:55]framework.cache.initialize.before: 
+[2015-07-01 08:27:55]framework.cache.initialize.after: memcached
+[2015-07-01 08:27:55]framework.session.initialize.before: 
+[2015-07-01 08:27:55]framework.session.initialize.after: server
+[2015-07-01 08:27:55]framework.router.dispatch.before: home/post
+[2015-07-01 08:27:55]framework.controller.construct.before: Home
+[2015-07-01 08:27:55]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:27:55]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:27:55]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:27:55]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:27:55]framework.controller.construct.after: Home
+[2015-07-01 08:27:55]framework.router.dispatch.after: home/post, home, post
+Average: 0.003323875, Longest: 0.010355, Shortest: 0.000167, Total: 0.053529
+[2015-07-01 08:28:01]framework.configuration.initialize.before: ini
+[2015-07-01 08:28:01]framework.configuration.initialize.after: ini
+[2015-07-01 08:28:01]framework.database.initialize.before: 
+[2015-07-01 08:28:01]framework.database.initialize.after: mysql
+[2015-07-01 08:28:01]framework.cache.initialize.before: 
+[2015-07-01 08:28:01]framework.cache.initialize.after: memcached
+[2015-07-01 08:28:01]framework.session.initialize.before: 
+[2015-07-01 08:28:01]framework.session.initialize.after: server
+[2015-07-01 08:28:01]framework.router.dispatch.before: home/index
+[2015-07-01 08:28:01]framework.controller.construct.before: Home
+[2015-07-01 08:28:01]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:28:01]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:28:01]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:28:01]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:28:01]framework.controller.construct.after: Home
+[2015-07-01 08:28:01]framework.router.dispatch.after: home/index, home, index
+Average: 0.00302425, Longest: 0.01046, Shortest: 0.000166, Total: 0.048845
+[2015-07-01 08:28:13]framework.configuration.initialize.before: ini
+[2015-07-01 08:28:13]framework.configuration.initialize.after: ini
+[2015-07-01 08:28:13]framework.database.initialize.before: 
+[2015-07-01 08:28:13]framework.database.initialize.after: mysql
+[2015-07-01 08:28:13]framework.cache.initialize.before: 
+[2015-07-01 08:28:13]framework.cache.initialize.after: memcached
+[2015-07-01 08:28:13]framework.session.initialize.before: 
+[2015-07-01 08:28:13]framework.session.initialize.after: server
+[2015-07-01 08:28:13]framework.router.dispatch.before: home/post
+[2015-07-01 08:28:13]framework.controller.construct.before: Home
+[2015-07-01 08:28:13]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:28:13]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:28:13]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:28:13]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:28:13]framework.controller.construct.after: Home
+[2015-07-01 08:28:13]framework.router.dispatch.after: home/post, home, post
+Average: 0.002494125, Longest: 0.008524, Shortest: 0.00010599999999999, Total: 0.040114
+[2015-07-01 08:30:46]framework.configuration.initialize.before: ini
+[2015-07-01 08:30:46]framework.configuration.initialize.after: ini
+[2015-07-01 08:30:46]framework.database.initialize.before: 
+[2015-07-01 08:30:46]framework.database.initialize.after: mysql
+[2015-07-01 08:30:46]framework.cache.initialize.before: 
+[2015-07-01 08:30:46]framework.cache.initialize.after: memcached
+[2015-07-01 08:30:46]framework.session.initialize.before: 
+[2015-07-01 08:30:46]framework.session.initialize.after: server
+[2015-07-01 08:30:46]framework.router.dispatch.before: home/post
+[2015-07-01 08:30:46]framework.controller.construct.before: Home
+[2015-07-01 08:30:46]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:30:46]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:30:46]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:30:46]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:30:46]framework.controller.construct.after: Home
+[2015-07-01 08:30:46]framework.router.dispatch.after: home/post, home, post
+Average: 0.0026610625, Longest: 0.008083, Shortest: 0.00011, Total: 0.043113
+[2015-07-01 08:31:02]framework.configuration.initialize.before: ini
+[2015-07-01 08:31:02]framework.configuration.initialize.after: ini
+[2015-07-01 08:31:02]framework.database.initialize.before: 
+[2015-07-01 08:31:02]framework.database.initialize.after: mysql
+[2015-07-01 08:31:02]framework.cache.initialize.before: 
+[2015-07-01 08:31:02]framework.cache.initialize.after: memcached
+[2015-07-01 08:31:02]framework.session.initialize.before: 
+[2015-07-01 08:31:02]framework.session.initialize.after: server
+[2015-07-01 08:31:02]framework.router.dispatch.before: home/post
+[2015-07-01 08:31:02]framework.controller.construct.before: Home
+[2015-07-01 08:31:02]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:31:02]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:31:02]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:31:02]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:31:02]framework.controller.construct.after: Home
+[2015-07-01 08:31:02]framework.router.dispatch.after: home/post, home, post
+Average: 0.003115375, Longest: 0.013241, Shortest: 0.000107, Total: 0.050062
+[2015-07-01 08:31:07]framework.configuration.initialize.before: ini
+[2015-07-01 08:31:07]framework.configuration.initialize.after: ini
+[2015-07-01 08:31:07]framework.database.initialize.before: 
+[2015-07-01 08:31:07]framework.database.initialize.after: mysql
+[2015-07-01 08:31:07]framework.cache.initialize.before: 
+[2015-07-01 08:31:07]framework.cache.initialize.after: memcached
+[2015-07-01 08:31:07]framework.session.initialize.before: 
+[2015-07-01 08:31:07]framework.session.initialize.after: server
+[2015-07-01 08:31:07]framework.router.dispatch.before: home/post
+[2015-07-01 08:31:07]framework.controller.construct.before: Home
+[2015-07-01 08:31:07]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:31:07]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:31:07]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:31:07]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:31:07]framework.controller.construct.after: Home
+[2015-07-01 08:31:07]framework.router.dispatch.after: home/post, home, post
+Average: 0.0031345625, Longest: 0.011911, Shortest: 0.00010599999999994, Total: 0.050425
+[2015-07-01 08:47:41]framework.configuration.initialize.before: ini
+[2015-07-01 08:47:41]framework.configuration.initialize.after: ini
+[2015-07-01 08:47:41]framework.database.initialize.before: 
+[2015-07-01 08:47:41]framework.database.initialize.after: mysql
+[2015-07-01 08:47:41]framework.cache.initialize.before: 
+[2015-07-01 08:47:41]framework.cache.initialize.after: memcached
+[2015-07-01 08:47:41]framework.session.initialize.before: 
+[2015-07-01 08:47:41]framework.session.initialize.after: server
+[2015-07-01 08:47:41]framework.router.dispatch.before: home/index
+[2015-07-01 08:47:41]framework.controller.construct.before: Home
+[2015-07-01 08:47:41]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:47:41]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:47:41]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:47:41]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:47:41]framework.controller.construct.after: Home
+Average: 0.0049156, Longest: 0.013002, Shortest: 0.00012199999999996, Total: 0.118523
+[2015-07-01 08:47:41]framework.configuration.initialize.before: ini
+[2015-07-01 08:47:41]framework.configuration.initialize.after: ini
+[2015-07-01 08:47:41]framework.database.initialize.before: 
+[2015-07-01 08:47:41]framework.database.initialize.after: mysql
+[2015-07-01 08:47:41]framework.cache.initialize.before: 
+[2015-07-01 08:47:41]framework.cache.initialize.after: memcached
+[2015-07-01 08:47:41]framework.session.initialize.before: 
+[2015-07-01 08:47:41]framework.session.initialize.after: server
+[2015-07-01 08:47:41]framework.router.dispatch.before: home/index
+[2015-07-01 08:47:41]framework.controller.construct.before: Home
+[2015-07-01 08:47:41]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:47:41]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:47:41]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:47:41]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:47:41]framework.controller.construct.after: Home
+Average: 0.0046123333333333, Longest: 0.017182, Shortest: 0.00011699999999992, Total: 0.091312
+[2015-07-01 08:48:00]framework.configuration.initialize.before: ini
+[2015-07-01 08:48:00]framework.configuration.initialize.after: ini
+[2015-07-01 08:48:00]framework.database.initialize.before: 
+[2015-07-01 08:48:00]framework.database.initialize.after: mysql
+[2015-07-01 08:48:00]framework.cache.initialize.before: 
+[2015-07-01 08:48:00]framework.cache.initialize.after: memcached
+[2015-07-01 08:48:00]framework.session.initialize.before: 
+[2015-07-01 08:48:00]framework.session.initialize.after: server
+[2015-07-01 08:48:00]framework.router.dispatch.before: home/index
+[2015-07-01 08:48:00]framework.controller.construct.before: Home
+[2015-07-01 08:48:00]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:00]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:00]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:00]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:00]framework.controller.construct.after: Home
+Average: 0.0043698666666667, Longest: 0.010149, Shortest: 0.00011800000000006, Total: 0.131574
+[2015-07-01 08:48:00]framework.configuration.initialize.before: ini
+[2015-07-01 08:48:00]framework.configuration.initialize.after: ini
+[2015-07-01 08:48:00]framework.database.initialize.before: 
+[2015-07-01 08:48:00]framework.database.initialize.after: mysql
+[2015-07-01 08:48:01]framework.cache.initialize.before: 
+[2015-07-01 08:48:01]framework.cache.initialize.after: memcached
+[2015-07-01 08:48:01]framework.session.initialize.before: 
+[2015-07-01 08:48:01]framework.session.initialize.after: server
+[2015-07-01 08:48:01]framework.router.dispatch.before: home/index
+[2015-07-01 08:48:01]framework.controller.construct.before: Home
+[2015-07-01 08:48:01]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:01]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:01]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:01]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:01]framework.controller.construct.after: Home
+Average: -0.061967333333333, Longest: 0.015063, Shortest: -0.993494, Total: -0.916481
+[2015-07-01 08:48:34]framework.configuration.initialize.before: ini
+[2015-07-01 08:48:34]framework.configuration.initialize.after: ini
+[2015-07-01 08:48:34]framework.database.initialize.before: 
+[2015-07-01 08:48:34]framework.database.initialize.after: mysql
+[2015-07-01 08:48:34]framework.cache.initialize.before: 
+[2015-07-01 08:48:34]framework.cache.initialize.after: memcached
+[2015-07-01 08:48:34]framework.session.initialize.before: 
+[2015-07-01 08:48:34]framework.session.initialize.after: server
+[2015-07-01 08:48:34]framework.router.dispatch.before: home/index
+[2015-07-01 08:48:34]framework.controller.construct.before: Home
+[2015-07-01 08:48:34]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:34]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:34]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:34]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:34]framework.controller.construct.after: Home
+Average: 0.0041117333333333, Longest: 0.015612, Shortest: 0.00011700000000003, Total: 0.076385
+[2015-07-01 08:48:35]framework.configuration.initialize.before: ini
+[2015-07-01 08:48:35]framework.configuration.initialize.after: ini
+[2015-07-01 08:48:35]framework.database.initialize.before: 
+[2015-07-01 08:48:35]framework.database.initialize.after: mysql
+[2015-07-01 08:48:35]framework.cache.initialize.before: 
+[2015-07-01 08:48:35]framework.cache.initialize.after: memcached
+[2015-07-01 08:48:35]framework.session.initialize.before: 
+[2015-07-01 08:48:35]framework.session.initialize.after: server
+[2015-07-01 08:48:35]framework.router.dispatch.before: home/index
+[2015-07-01 08:48:35]framework.controller.construct.before: Home
+[2015-07-01 08:48:35]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:35]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:48:35]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:35]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:48:35]framework.controller.construct.after: Home
+Average: 0.0055629333333333, Longest: 0.016009, Shortest: 0.00022799999999998, Total: 0.101092
+[2015-07-01 08:52:09]framework.configuration.initialize.before: ini
+[2015-07-01 08:52:09]framework.configuration.initialize.after: ini
+[2015-07-01 08:52:09]framework.database.initialize.before: 
+[2015-07-01 08:52:09]framework.database.initialize.after: mysql
+[2015-07-01 08:52:09]framework.cache.initialize.before: 
+[2015-07-01 08:52:09]framework.cache.initialize.after: memcached
+[2015-07-01 08:52:09]framework.session.initialize.before: 
+[2015-07-01 08:52:09]framework.session.initialize.after: server
+[2015-07-01 08:52:09]framework.router.dispatch.before: home/index
+[2015-07-01 08:52:09]framework.controller.construct.before: Home
+[2015-07-01 08:52:09]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:52:09]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:52:09]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:52:09]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:52:09]framework.controller.construct.after: Home
+Average: 0.0034739333333333, Longest: 0.0102, Shortest: 0.00032799999999999, Total: 0.139095
+[2015-07-01 08:52:09]framework.configuration.initialize.before: ini
+[2015-07-01 08:52:09]framework.configuration.initialize.after: ini
+[2015-07-01 08:52:09]framework.database.initialize.before: 
+[2015-07-01 08:52:09]framework.database.initialize.after: mysql
+[2015-07-01 08:52:09]framework.cache.initialize.before: 
+[2015-07-01 08:52:09]framework.cache.initialize.after: memcached
+[2015-07-01 08:52:09]framework.session.initialize.before: 
+[2015-07-01 08:52:09]framework.session.initialize.after: server
+[2015-07-01 08:52:09]framework.router.dispatch.before: home/index
+[2015-07-01 08:52:09]framework.controller.construct.before: Home
+[2015-07-01 08:52:09]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:52:09]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:52:09]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:52:09]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:52:09]framework.controller.construct.after: Home
+Average: 0.0035418, Longest: 0.009538, Shortest: 0.00012400000000001, Total: 0.06451
+[2015-07-01 08:53:06]framework.configuration.initialize.before: ini
+[2015-07-01 08:53:06]framework.configuration.initialize.after: ini
+[2015-07-01 08:53:06]framework.database.initialize.before: 
+[2015-07-01 08:53:06]framework.database.initialize.after: mysql
+[2015-07-01 08:53:06]framework.cache.initialize.before: 
+[2015-07-01 08:53:06]framework.cache.initialize.after: memcached
+[2015-07-01 08:53:06]framework.session.initialize.before: 
+[2015-07-01 08:53:06]framework.session.initialize.after: server
+[2015-07-01 08:53:06]framework.router.dispatch.before: home/index
+[2015-07-01 08:53:06]framework.controller.construct.before: Home
+[2015-07-01 08:53:06]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:53:06]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:53:06]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:53:06]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:53:06]framework.controller.construct.after: Home
+[2015-07-01 08:53:07]framework.router.dispatch.after: home/index, home, index
+Average: 0.0116540625, Longest: 0.142826, Shortest: 0.00012400000000001, Total: 0.187036
+[2015-07-01 08:54:02]framework.configuration.initialize.before: ini
+[2015-07-01 08:54:02]framework.configuration.initialize.after: ini
+[2015-07-01 08:54:02]framework.database.initialize.before: 
+[2015-07-01 08:54:02]framework.database.initialize.after: mysql
+[2015-07-01 08:54:02]framework.cache.initialize.before: 
+[2015-07-01 08:54:02]framework.cache.initialize.after: memcached
+[2015-07-01 08:54:02]framework.session.initialize.before: 
+[2015-07-01 08:54:02]framework.session.initialize.after: server
+[2015-07-01 08:54:02]framework.router.dispatch.before: home/index
+[2015-07-01 08:54:02]framework.controller.construct.before: Home
+[2015-07-01 08:54:02]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:54:02]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:54:02]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:54:02]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:54:02]framework.controller.construct.after: Home
+[2015-07-01 08:54:03]framework.router.dispatch.after: home/index, home, index
+Average: -0.0005471875, Longest: 0.018626, Shortest: -0.063843, Total: -0.008516
+[2015-07-01 08:57:31]framework.configuration.initialize.before: ini
+[2015-07-01 08:57:31]framework.configuration.initialize.after: ini
+[2015-07-01 08:57:31]framework.database.initialize.before: 
+[2015-07-01 08:57:31]framework.database.initialize.after: mysql
+[2015-07-01 08:57:31]framework.cache.initialize.before: 
+[2015-07-01 08:57:31]framework.cache.initialize.after: memcached
+[2015-07-01 08:57:31]framework.session.initialize.before: 
+[2015-07-01 08:57:31]framework.session.initialize.after: server
+[2015-07-01 08:57:31]framework.router.dispatch.before: home/index
+[2015-07-01 08:57:31]framework.controller.construct.before: Home
+[2015-07-01 08:57:31]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:57:31]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:57:31]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:57:31]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 08:57:31]framework.controller.construct.after: Home
+[2015-07-01 08:57:32]framework.router.dispatch.after: home/index, home, index
+Average: 0.001842625, Longest: 0.0076619999999999, Shortest: -0.007617, Total: 0.029926
+[2015-07-01 08:57:44]framework.configuration.initialize.before: ini
+[2015-07-01 08:57:44]framework.configuration.initialize.after: ini
+[2015-07-01 08:57:44]framework.database.initialize.before: 
+[2015-07-01 08:57:44]framework.database.initialize.after: mysql
+[2015-07-01 08:57:44]framework.cache.initialize.before: 
+[2015-07-01 08:57:44]framework.cache.initialize.after: memcached
+[2015-07-01 08:57:44]framework.session.initialize.before: 
+[2015-07-01 08:57:44]framework.session.initialize.after: server
+[2015-07-01 08:57:44]framework.router.dispatch.before: home/post
+[2015-07-01 08:57:45]framework.controller.construct.before: Home
+[2015-07-01 08:57:45]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:57:45]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 08:57:45]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:57:45]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 08:57:45]framework.controller.construct.after: Home
+[2015-07-01 08:57:45]framework.router.dispatch.after: home/post, home, post
+Average: -0.059290375, Longest: 0.0088780000000001, Shortest: -0.988214, Total: -0.948399
+[2015-07-01 09:06:00]framework.configuration.initialize.before: ini
+[2015-07-01 09:06:00]framework.configuration.initialize.after: ini
+[2015-07-01 09:06:00]framework.database.initialize.before: 
+[2015-07-01 09:06:00]framework.database.initialize.after: mysql
+[2015-07-01 09:06:00]framework.cache.initialize.before: 
+[2015-07-01 09:06:00]framework.cache.initialize.after: memcached
+[2015-07-01 09:06:00]framework.session.initialize.before: 
+[2015-07-01 09:06:00]framework.session.initialize.after: server
+[2015-07-01 09:06:00]framework.router.dispatch.before: home/sjdf
+[2015-07-01 09:06:00]framework.controller.construct.before: Home
+[2015-07-01 09:06:00]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:06:00]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:06:00]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/sjdf.html
+[2015-07-01 09:06:00]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/sjdf.html
+[2015-07-01 09:06:00]framework.controller.construct.after: Home
+Average: 0.0034234, Longest: 0.009467, Shortest: 0.00013199999999999, Total: 0.05921
+[2015-07-01 09:06:02]framework.configuration.initialize.before: ini
+[2015-07-01 09:06:02]framework.configuration.initialize.after: ini
+[2015-07-01 09:06:02]framework.database.initialize.before: 
+[2015-07-01 09:06:02]framework.database.initialize.after: mysql
+[2015-07-01 09:06:02]framework.cache.initialize.before: 
+[2015-07-01 09:06:02]framework.cache.initialize.after: memcached
+[2015-07-01 09:06:02]framework.session.initialize.before: 
+[2015-07-01 09:06:02]framework.session.initialize.after: server
+[2015-07-01 09:06:02]framework.router.dispatch.before: home/
+[2015-07-01 09:06:02]framework.controller.construct.before: Home
+[2015-07-01 09:06:02]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:06:02]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:06:02]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 09:06:02]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/index.html
+[2015-07-01 09:06:02]framework.controller.construct.after: Home
+[2015-07-01 09:06:02]framework.router.dispatch.after: home/, home, index
+Average: 0.0030145, Longest: 0.010206, Shortest: 0.00012999999999996, Total: 0.048421
+[2015-07-01 09:06:15]framework.configuration.initialize.before: ini
+[2015-07-01 09:06:15]framework.configuration.initialize.after: ini
+[2015-07-01 09:06:15]framework.database.initialize.before: 
+[2015-07-01 09:06:15]framework.database.initialize.after: mysql
+[2015-07-01 09:06:15]framework.cache.initialize.before: 
+[2015-07-01 09:06:15]framework.cache.initialize.after: memcached
+[2015-07-01 09:06:15]framework.session.initialize.before: 
+[2015-07-01 09:06:15]framework.session.initialize.after: server
+[2015-07-01 09:06:15]framework.router.dispatch.before: home/blog
+[2015-07-01 09:06:15]framework.controller.construct.before: Home
+[2015-07-01 09:06:15]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:06:15]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:06:15]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/blog.html
+[2015-07-01 09:06:15]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/blog.html
+[2015-07-01 09:06:15]framework.controller.construct.after: Home
+[2015-07-01 09:06:15]framework.router.dispatch.after: home/blog, home, blog
+Average: 0.0036221875, Longest: 0.012014, Shortest: 0.00011899999999998, Total: 0.058522
+[2015-07-01 09:08:10]framework.configuration.initialize.before: ini
+[2015-07-01 09:08:10]framework.configuration.initialize.after: ini
+[2015-07-01 09:08:10]framework.database.initialize.before: 
+[2015-07-01 09:08:10]framework.database.initialize.after: mysql
+[2015-07-01 09:08:10]framework.cache.initialize.before: 
+[2015-07-01 09:08:10]framework.cache.initialize.after: memcached
+[2015-07-01 09:08:10]framework.session.initialize.before: 
+[2015-07-01 09:08:10]framework.session.initialize.after: server
+[2015-07-01 09:08:10]framework.router.dispatch.before: home/post
+[2015-07-01 09:08:10]framework.controller.construct.before: Home
+[2015-07-01 09:08:10]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:08:10]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:08:10]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:08:10]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:08:10]framework.controller.construct.after: Home
+[2015-07-01 09:08:10]framework.router.dispatch.after: home/post, home, post
+Average: 0.0035915, Longest: 0.013751, Shortest: 0.00013099999999999, Total: 0.058212
+[2015-07-01 09:09:16]framework.configuration.initialize.before: ini
+[2015-07-01 09:09:16]framework.configuration.initialize.after: ini
+[2015-07-01 09:09:16]framework.database.initialize.before: 
+[2015-07-01 09:09:16]framework.database.initialize.after: mysql
+[2015-07-01 09:09:16]framework.cache.initialize.before: 
+[2015-07-01 09:09:16]framework.cache.initialize.after: memcached
+[2015-07-01 09:09:16]framework.session.initialize.before: 
+[2015-07-01 09:09:16]framework.session.initialize.after: server
+[2015-07-01 09:09:16]framework.router.dispatch.before: home/post
+[2015-07-01 09:09:16]framework.controller.construct.before: Home
+[2015-07-01 09:09:16]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:09:16]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:09:16]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:09:16]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:09:16]framework.controller.construct.after: Home
+[2015-07-01 09:09:16]framework.router.dispatch.after: home/post, home, post
+Average: 0.00335, Longest: 0.011162, Shortest: 0.00020000000000001, Total: 0.053805
+[2015-07-01 09:09:16]framework.configuration.initialize.before: ini
+[2015-07-01 09:09:16]framework.configuration.initialize.after: ini
+[2015-07-01 09:09:16]framework.database.initialize.before: 
+[2015-07-01 09:09:16]framework.database.initialize.after: mysql
+[2015-07-01 09:09:16]framework.cache.initialize.before: 
+[2015-07-01 09:09:16]framework.cache.initialize.after: memcached
+[2015-07-01 09:09:16]framework.session.initialize.before: 
+[2015-07-01 09:09:16]framework.session.initialize.after: server
+[2015-07-01 09:09:16]framework.router.dispatch.before: home/post
+[2015-07-01 09:09:16]framework.controller.construct.before: Home
+[2015-07-01 09:09:16]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:09:16]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:09:16]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:09:16]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:09:16]framework.controller.construct.after: Home
+[2015-07-01 09:09:16]framework.router.dispatch.after: home/post, home, post
+Average: 0.0041041875, Longest: 0.021208, Shortest: 0.00026599999999999, Total: 0.065919
+[2015-07-01 09:09:27]framework.configuration.initialize.before: ini
+[2015-07-01 09:09:27]framework.configuration.initialize.after: ini
+[2015-07-01 09:09:27]framework.database.initialize.before: 
+[2015-07-01 09:09:27]framework.database.initialize.after: mysql
+[2015-07-01 09:09:27]framework.cache.initialize.before: 
+[2015-07-01 09:09:27]framework.cache.initialize.after: memcached
+[2015-07-01 09:09:27]framework.session.initialize.before: 
+[2015-07-01 09:09:27]framework.session.initialize.after: server
+[2015-07-01 09:09:27]framework.router.dispatch.before: home/post
+[2015-07-01 09:09:27]framework.controller.construct.before: Home
+[2015-07-01 09:09:27]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:09:27]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:09:27]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:09:27]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:09:27]framework.controller.construct.after: Home
+[2015-07-01 09:09:27]framework.router.dispatch.after: home/post, home, post
+Average: 0.0043425625, Longest: 0.012835, Shortest: 0.00012000000000001, Total: 0.069731
+[2015-07-01 09:11:45]framework.configuration.initialize.before: ini
+[2015-07-01 09:11:45]framework.configuration.initialize.after: ini
+[2015-07-01 09:11:45]framework.database.initialize.before: 
+[2015-07-01 09:11:45]framework.database.initialize.after: mysql
+[2015-07-01 09:11:45]framework.cache.initialize.before: 
+[2015-07-01 09:11:45]framework.cache.initialize.after: memcached
+[2015-07-01 09:11:45]framework.session.initialize.before: 
+[2015-07-01 09:11:45]framework.session.initialize.after: server
+[2015-07-01 09:11:45]framework.router.dispatch.before: home/post
+[2015-07-01 09:11:45]framework.controller.construct.before: Home
+[2015-07-01 09:11:45]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:11:45]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:11:45]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:11:45]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:11:45]framework.controller.construct.after: Home
+[2015-07-01 09:11:45]framework.router.dispatch.after: home/post, home, post
+Average: 0.00392, Longest: 0.014768, Shortest: 0.000112, Total: 0.063127
+[2015-07-01 09:12:00]framework.configuration.initialize.before: ini
+[2015-07-01 09:12:00]framework.configuration.initialize.after: ini
+[2015-07-01 09:12:00]framework.database.initialize.before: 
+[2015-07-01 09:12:00]framework.database.initialize.after: mysql
+[2015-07-01 09:12:00]framework.cache.initialize.before: 
+[2015-07-01 09:12:00]framework.cache.initialize.after: memcached
+[2015-07-01 09:12:00]framework.session.initialize.before: 
+[2015-07-01 09:12:00]framework.session.initialize.after: server
+[2015-07-01 09:12:00]framework.router.dispatch.before: home/post
+[2015-07-01 09:12:00]framework.controller.construct.before: Home
+[2015-07-01 09:12:00]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:12:00]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:12:00]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:12:00]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:12:00]framework.controller.construct.after: Home
+[2015-07-01 09:12:00]framework.router.dispatch.after: home/post, home, post
+Average: 0.00442325, Longest: 0.011735, Shortest: 0.00012199999999996, Total: 0.070966
+[2015-07-01 09:12:11]framework.configuration.initialize.before: ini
+[2015-07-01 09:12:11]framework.configuration.initialize.after: ini
+[2015-07-01 09:12:11]framework.database.initialize.before: 
+[2015-07-01 09:12:11]framework.database.initialize.after: mysql
+[2015-07-01 09:12:11]framework.cache.initialize.before: 
+[2015-07-01 09:12:11]framework.cache.initialize.after: memcached
+[2015-07-01 09:12:11]framework.session.initialize.before: 
+[2015-07-01 09:12:11]framework.session.initialize.after: server
+[2015-07-01 09:12:11]framework.router.dispatch.before: home/post
+[2015-07-01 09:12:11]framework.controller.construct.before: Home
+[2015-07-01 09:12:11]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:12:11]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:12:11]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:12:11]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:12:11]framework.controller.construct.after: Home
+[2015-07-01 09:12:11]framework.router.dispatch.after: home/post, home, post
+Average: 0.0030856875, Longest: 0.01225, Shortest: 0.000113, Total: 0.049686
+[2015-07-01 09:13:34]framework.configuration.initialize.before: ini
+[2015-07-01 09:13:34]framework.configuration.initialize.after: ini
+[2015-07-01 09:13:34]framework.database.initialize.before: 
+[2015-07-01 09:13:34]framework.database.initialize.after: mysql
+[2015-07-01 09:13:34]framework.cache.initialize.before: 
+[2015-07-01 09:13:34]framework.cache.initialize.after: memcached
+[2015-07-01 09:13:34]framework.session.initialize.before: 
+[2015-07-01 09:13:34]framework.session.initialize.after: server
+[2015-07-01 09:13:34]framework.router.dispatch.before: home/post
+[2015-07-01 09:13:34]framework.controller.construct.before: Home
+[2015-07-01 09:13:34]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:34]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:34]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:34]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:34]framework.controller.construct.after: Home
+[2015-07-01 09:13:34]framework.router.dispatch.after: home/post, home, post
+Average: 0.0033225625, Longest: 0.014207, Shortest: 0.000112, Total: 0.053515
+[2015-07-01 09:13:38]framework.configuration.initialize.before: ini
+[2015-07-01 09:13:38]framework.configuration.initialize.after: ini
+[2015-07-01 09:13:38]framework.database.initialize.before: 
+[2015-07-01 09:13:38]framework.database.initialize.after: mysql
+[2015-07-01 09:13:38]framework.cache.initialize.before: 
+[2015-07-01 09:13:38]framework.cache.initialize.after: memcached
+[2015-07-01 09:13:38]framework.session.initialize.before: 
+[2015-07-01 09:13:38]framework.session.initialize.after: server
+[2015-07-01 09:13:38]framework.router.dispatch.before: home/post
+[2015-07-01 09:13:38]framework.controller.construct.before: Home
+[2015-07-01 09:13:38]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:38]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:38]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:38]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:38]framework.controller.construct.after: Home
+[2015-07-01 09:13:38]framework.router.dispatch.after: home/post, home, post
+Average: 0.0038345625, Longest: 0.012556, Shortest: 0.00013600000000002, Total: 0.061601
+[2015-07-01 09:13:41]framework.configuration.initialize.before: ini
+[2015-07-01 09:13:41]framework.configuration.initialize.after: ini
+[2015-07-01 09:13:41]framework.database.initialize.before: 
+[2015-07-01 09:13:41]framework.database.initialize.after: mysql
+[2015-07-01 09:13:41]framework.cache.initialize.before: 
+[2015-07-01 09:13:41]framework.cache.initialize.after: memcached
+[2015-07-01 09:13:41]framework.session.initialize.before: 
+[2015-07-01 09:13:41]framework.session.initialize.after: server
+[2015-07-01 09:13:41]framework.router.dispatch.before: home/post
+[2015-07-01 09:13:41]framework.controller.construct.before: Home
+[2015-07-01 09:13:41]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:41]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:41]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:41]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:41]framework.controller.construct.after: Home
+[2015-07-01 09:13:41]framework.router.dispatch.after: home/post, home, post
+Average: 0.0025444375, Longest: 0.007083, Shortest: 0.00012, Total: 0.040893
+[2015-07-01 09:13:42]framework.configuration.initialize.before: ini
+[2015-07-01 09:13:42]framework.configuration.initialize.after: ini
+[2015-07-01 09:13:42]framework.database.initialize.before: 
+[2015-07-01 09:13:42]framework.database.initialize.after: mysql
+[2015-07-01 09:13:42]framework.cache.initialize.before: 
+[2015-07-01 09:13:42]framework.cache.initialize.after: memcached
+[2015-07-01 09:13:42]framework.session.initialize.before: 
+[2015-07-01 09:13:42]framework.session.initialize.after: server
+[2015-07-01 09:13:42]framework.router.dispatch.before: home/post
+[2015-07-01 09:13:42]framework.controller.construct.before: Home
+[2015-07-01 09:13:42]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:42]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:42]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:42]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:42]framework.controller.construct.after: Home
+[2015-07-01 09:13:42]framework.router.dispatch.after: home/post, home, post
+Average: 0.0028544375, Longest: 0.010113, Shortest: 0.00012600000000007, Total: 0.045859
+[2015-07-01 09:13:53]framework.configuration.initialize.before: ini
+[2015-07-01 09:13:53]framework.configuration.initialize.after: ini
+[2015-07-01 09:13:53]framework.database.initialize.before: 
+[2015-07-01 09:13:53]framework.database.initialize.after: mysql
+[2015-07-01 09:13:53]framework.cache.initialize.before: 
+[2015-07-01 09:13:53]framework.cache.initialize.after: memcached
+[2015-07-01 09:13:53]framework.session.initialize.before: 
+[2015-07-01 09:13:53]framework.session.initialize.after: server
+[2015-07-01 09:13:53]framework.router.dispatch.before: home/post
+[2015-07-01 09:13:53]framework.controller.construct.before: Home
+[2015-07-01 09:13:53]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:53]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:53]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:53]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:53]framework.controller.construct.after: Home
+[2015-07-01 09:13:53]framework.router.dispatch.after: home/post, home, post
+Average: 0.0025604375, Longest: 0.007501, Shortest: 0.000113, Total: 0.04129
+[2015-07-01 09:13:54]framework.configuration.initialize.before: ini
+[2015-07-01 09:13:54]framework.configuration.initialize.after: ini
+[2015-07-01 09:13:54]framework.database.initialize.before: 
+[2015-07-01 09:13:54]framework.database.initialize.after: mysql
+[2015-07-01 09:13:54]framework.cache.initialize.before: 
+[2015-07-01 09:13:54]framework.cache.initialize.after: memcached
+[2015-07-01 09:13:54]framework.session.initialize.before: 
+[2015-07-01 09:13:54]framework.session.initialize.after: server
+[2015-07-01 09:13:54]framework.router.dispatch.before: home/post
+[2015-07-01 09:13:54]framework.controller.construct.before: Home
+[2015-07-01 09:13:54]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:54]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:13:54]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:54]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:13:54]framework.controller.construct.after: Home
+[2015-07-01 09:13:54]framework.router.dispatch.after: home/post, home, post
+Average: 0.0029810625, Longest: 0.009817, Shortest: 0.00015200000000004, Total: 0.047881
+[2015-07-01 09:14:38]framework.configuration.initialize.before: ini
+[2015-07-01 09:14:38]framework.configuration.initialize.after: ini
+[2015-07-01 09:14:38]framework.database.initialize.before: 
+[2015-07-01 09:14:38]framework.database.initialize.after: mysql
+[2015-07-01 09:14:38]framework.cache.initialize.before: 
+[2015-07-01 09:14:38]framework.cache.initialize.after: memcached
+[2015-07-01 09:14:38]framework.session.initialize.before: 
+[2015-07-01 09:14:38]framework.session.initialize.after: server
+[2015-07-01 09:14:38]framework.router.dispatch.before: home/post
+[2015-07-01 09:14:38]framework.controller.construct.before: Home
+[2015-07-01 09:14:38]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:14:38]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:14:38]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:14:38]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:14:38]framework.controller.construct.after: Home
+[2015-07-01 09:14:38]framework.router.dispatch.after: home/post, home, post
+Average: 0.0025183125, Longest: 0.0072990000000001, Shortest: 0.00011299999999992, Total: 0.040483
+[2015-07-01 09:14:39]framework.configuration.initialize.before: ini
+[2015-07-01 09:14:39]framework.configuration.initialize.after: ini
+[2015-07-01 09:14:39]framework.database.initialize.before: 
+[2015-07-01 09:14:39]framework.database.initialize.after: mysql
+[2015-07-01 09:14:39]framework.cache.initialize.before: 
+[2015-07-01 09:14:39]framework.cache.initialize.after: memcached
+[2015-07-01 09:14:39]framework.session.initialize.before: 
+[2015-07-01 09:14:39]framework.session.initialize.after: server
+[2015-07-01 09:14:39]framework.router.dispatch.before: home/post
+[2015-07-01 09:14:39]framework.controller.construct.before: Home
+[2015-07-01 09:14:39]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:14:39]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:14:39]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:14:39]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:14:39]framework.controller.construct.after: Home
+[2015-07-01 09:14:39]framework.router.dispatch.after: home/post, home, post
+Average: 0.0038528125, Longest: 0.017301, Shortest: 0.00022, Total: 0.062609
+[2015-07-01 09:15:16]framework.configuration.initialize.before: ini
+[2015-07-01 09:15:16]framework.configuration.initialize.after: ini
+[2015-07-01 09:15:16]framework.database.initialize.before: 
+[2015-07-01 09:15:16]framework.database.initialize.after: mysql
+[2015-07-01 09:15:16]framework.cache.initialize.before: 
+[2015-07-01 09:15:16]framework.cache.initialize.after: memcached
+[2015-07-01 09:15:16]framework.session.initialize.before: 
+[2015-07-01 09:15:16]framework.session.initialize.after: server
+[2015-07-01 09:15:16]framework.router.dispatch.before: home/post
+[2015-07-01 09:15:16]framework.controller.construct.before: Home
+[2015-07-01 09:15:16]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:16]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:16]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:16]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:16]framework.controller.construct.after: Home
+[2015-07-01 09:15:16]framework.router.dispatch.after: home/post, home, post
+Average: 0.0026043125, Longest: 0.00817, Shortest: 0.00012200000000001, Total: 0.041853
+[2015-07-01 09:15:18]framework.configuration.initialize.before: ini
+[2015-07-01 09:15:18]framework.configuration.initialize.after: ini
+[2015-07-01 09:15:18]framework.database.initialize.before: 
+[2015-07-01 09:15:18]framework.database.initialize.after: mysql
+[2015-07-01 09:15:18]framework.cache.initialize.before: 
+[2015-07-01 09:15:18]framework.cache.initialize.after: memcached
+[2015-07-01 09:15:18]framework.session.initialize.before: 
+[2015-07-01 09:15:18]framework.session.initialize.after: server
+[2015-07-01 09:15:18]framework.router.dispatch.before: home/post
+[2015-07-01 09:15:18]framework.controller.construct.before: Home
+[2015-07-01 09:15:18]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:18]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:18]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:18]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:18]framework.controller.construct.after: Home
+[2015-07-01 09:15:18]framework.router.dispatch.after: home/post, home, post
+Average: 0.0040146875, Longest: 0.013935, Shortest: 0.00017699999999998, Total: 0.06449
+[2015-07-01 09:15:46]framework.configuration.initialize.before: ini
+[2015-07-01 09:15:46]framework.configuration.initialize.after: ini
+[2015-07-01 09:15:46]framework.database.initialize.before: 
+[2015-07-01 09:15:46]framework.database.initialize.after: mysql
+[2015-07-01 09:15:46]framework.cache.initialize.before: 
+[2015-07-01 09:15:46]framework.cache.initialize.after: memcached
+[2015-07-01 09:15:46]framework.session.initialize.before: 
+[2015-07-01 09:15:46]framework.session.initialize.after: server
+[2015-07-01 09:15:46]framework.router.dispatch.before: home/post
+[2015-07-01 09:15:46]framework.controller.construct.before: Home
+[2015-07-01 09:15:46]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:46]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:46]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:46]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:46]framework.controller.construct.after: Home
+[2015-07-01 09:15:46]framework.router.dispatch.after: home/post, home, post
+Average: 0.0031381875, Longest: 0.011546, Shortest: 0.00020100000000001, Total: 0.050405
+[2015-07-01 09:15:47]framework.configuration.initialize.before: ini
+[2015-07-01 09:15:47]framework.configuration.initialize.after: ini
+[2015-07-01 09:15:47]framework.database.initialize.before: 
+[2015-07-01 09:15:47]framework.database.initialize.after: mysql
+[2015-07-01 09:15:47]framework.cache.initialize.before: 
+[2015-07-01 09:15:47]framework.cache.initialize.after: memcached
+[2015-07-01 09:15:47]framework.session.initialize.before: 
+[2015-07-01 09:15:47]framework.session.initialize.after: server
+[2015-07-01 09:15:47]framework.router.dispatch.before: home/post
+[2015-07-01 09:15:47]framework.controller.construct.before: Home
+[2015-07-01 09:15:47]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:47]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:15:47]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:47]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:15:47]framework.controller.construct.after: Home
+[2015-07-01 09:15:47]framework.router.dispatch.after: home/post, home, post
+Average: 0.003624, Longest: 0.016413, Shortest: 0.00012299999999998, Total: 0.058233
+[2015-07-01 09:16:26]framework.configuration.initialize.before: ini
+[2015-07-01 09:16:26]framework.configuration.initialize.after: ini
+[2015-07-01 09:16:26]framework.database.initialize.before: 
+[2015-07-01 09:16:26]framework.database.initialize.after: mysql
+[2015-07-01 09:16:26]framework.cache.initialize.before: 
+[2015-07-01 09:16:26]framework.cache.initialize.after: memcached
+[2015-07-01 09:16:26]framework.session.initialize.before: 
+[2015-07-01 09:16:26]framework.session.initialize.after: server
+[2015-07-01 09:16:26]framework.router.dispatch.before: home/post
+[2015-07-01 09:16:26]framework.controller.construct.before: Home
+[2015-07-01 09:16:26]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:16:26]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:16:26]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:16:26]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:16:26]framework.controller.construct.after: Home
+[2015-07-01 09:16:26]framework.router.dispatch.after: home/post, home, post
+Average: 0.003420625, Longest: 0.008372, Shortest: 0.00015100000000001, Total: 0.055035
+[2015-07-01 09:16:42]framework.configuration.initialize.before: ini
+[2015-07-01 09:16:42]framework.configuration.initialize.after: ini
+[2015-07-01 09:16:42]framework.database.initialize.before: 
+[2015-07-01 09:16:42]framework.database.initialize.after: mysql
+[2015-07-01 09:16:42]framework.cache.initialize.before: 
+[2015-07-01 09:16:42]framework.cache.initialize.after: memcached
+[2015-07-01 09:16:42]framework.session.initialize.before: 
+[2015-07-01 09:16:42]framework.session.initialize.after: server
+[2015-07-01 09:16:42]framework.router.dispatch.before: home/post
+[2015-07-01 09:16:42]framework.controller.construct.before: Home
+[2015-07-01 09:16:42]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:16:42]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:16:42]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:16:42]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:16:42]framework.controller.construct.after: Home
+[2015-07-01 09:16:42]framework.router.dispatch.after: home/post, home, post
+Average: 0.0029023125, Longest: 0.008422, Shortest: 0.00012099999999998, Total: 0.046611
+[2015-07-01 09:16:56]framework.configuration.initialize.before: ini
+[2015-07-01 09:16:56]framework.configuration.initialize.after: ini
+[2015-07-01 09:16:56]framework.database.initialize.before: 
+[2015-07-01 09:16:56]framework.database.initialize.after: mysql
+[2015-07-01 09:16:56]framework.cache.initialize.before: 
+[2015-07-01 09:16:56]framework.cache.initialize.after: memcached
+[2015-07-01 09:16:56]framework.session.initialize.before: 
+[2015-07-01 09:16:56]framework.session.initialize.after: server
+[2015-07-01 09:16:56]framework.router.dispatch.before: home/post
+[2015-07-01 09:16:56]framework.controller.construct.before: Home
+[2015-07-01 09:16:56]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:16:56]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:16:56]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:16:56]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:16:56]framework.controller.construct.after: Home
+[2015-07-01 09:16:56]framework.router.dispatch.after: home/post, home, post
+Average: 0.0034164375, Longest: 0.011799, Shortest: 0.00011300000000003, Total: 0.054872
+[2015-07-01 09:17:08]framework.configuration.initialize.before: ini
+[2015-07-01 09:17:08]framework.configuration.initialize.after: ini
+[2015-07-01 09:17:08]framework.database.initialize.before: 
+[2015-07-01 09:17:08]framework.database.initialize.after: mysql
+[2015-07-01 09:17:08]framework.cache.initialize.before: 
+[2015-07-01 09:17:08]framework.cache.initialize.after: memcached
+[2015-07-01 09:17:08]framework.session.initialize.before: 
+[2015-07-01 09:17:08]framework.session.initialize.after: server
+[2015-07-01 09:17:08]framework.router.dispatch.before: home/post
+[2015-07-01 09:17:08]framework.controller.construct.before: Home
+[2015-07-01 09:17:08]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:17:08]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:17:08]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:17:08]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:17:08]framework.controller.construct.after: Home
+[2015-07-01 09:17:08]framework.router.dispatch.after: home/post, home, post
+Average: 0.0040789375, Longest: 0.016152, Shortest: 0.00026699999999996, Total: 0.06563
+[2015-07-01 09:17:23]framework.configuration.initialize.before: ini
+[2015-07-01 09:17:23]framework.configuration.initialize.after: ini
+[2015-07-01 09:17:23]framework.database.initialize.before: 
+[2015-07-01 09:17:23]framework.database.initialize.after: mysql
+[2015-07-01 09:17:23]framework.cache.initialize.before: 
+[2015-07-01 09:17:23]framework.cache.initialize.after: memcached
+[2015-07-01 09:17:23]framework.session.initialize.before: 
+[2015-07-01 09:17:23]framework.session.initialize.after: server
+[2015-07-01 09:17:23]framework.router.dispatch.before: home/post
+[2015-07-01 09:17:23]framework.controller.construct.before: Home
+[2015-07-01 09:17:23]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:17:23]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:17:23]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:17:23]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:17:23]framework.controller.construct.after: Home
+[2015-07-01 09:17:23]framework.router.dispatch.after: home/post, home, post
+Average: 0.0146293125, Longest: 0.164322, Shortest: 0.00012099999999998, Total: 0.234338
+[2015-07-01 09:19:35]framework.configuration.initialize.before: ini
+[2015-07-01 09:19:35]framework.configuration.initialize.after: ini
+[2015-07-01 09:19:35]framework.database.initialize.before: 
+[2015-07-01 09:19:35]framework.database.initialize.after: mysql
+[2015-07-01 09:19:35]framework.cache.initialize.before: 
+[2015-07-01 09:19:35]framework.cache.initialize.after: memcached
+[2015-07-01 09:19:35]framework.session.initialize.before: 
+[2015-07-01 09:19:35]framework.session.initialize.after: server
+[2015-07-01 09:19:35]framework.router.dispatch.before: home/post
+[2015-07-01 09:19:35]framework.controller.construct.before: Home
+[2015-07-01 09:19:35]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:19:35]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:19:35]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:19:35]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:19:35]framework.controller.construct.after: Home
+[2015-07-01 09:19:35]framework.router.dispatch.after: home/post, home, post
+Average: 0.0039763125, Longest: 0.010908, Shortest: 0.00015400000000004, Total: 0.064286
+[2015-07-01 09:19:35]framework.configuration.initialize.before: ini
+[2015-07-01 09:19:35]framework.configuration.initialize.after: ini
+[2015-07-01 09:19:35]framework.database.initialize.before: 
+[2015-07-01 09:19:35]framework.database.initialize.after: mysql
+[2015-07-01 09:19:35]framework.cache.initialize.before: 
+[2015-07-01 09:19:35]framework.cache.initialize.after: memcached
+[2015-07-01 09:19:35]framework.session.initialize.before: 
+[2015-07-01 09:19:35]framework.session.initialize.after: server
+[2015-07-01 09:19:35]framework.router.dispatch.before: home/post
+[2015-07-01 09:19:35]framework.controller.construct.before: Home
+[2015-07-01 09:19:35]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:19:35]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:19:35]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:19:35]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:19:35]framework.controller.construct.after: Home
+[2015-07-01 09:19:35]framework.router.dispatch.after: home/post, home, post
+Average: 0.004604625, Longest: 0.020821, Shortest: 0.00021399999999994, Total: 0.074075
+[2015-07-01 09:19:48]framework.configuration.initialize.before: ini
+[2015-07-01 09:19:48]framework.configuration.initialize.after: ini
+[2015-07-01 09:19:48]framework.database.initialize.before: 
+[2015-07-01 09:19:48]framework.database.initialize.after: mysql
+[2015-07-01 09:19:48]framework.cache.initialize.before: 
+[2015-07-01 09:19:48]framework.cache.initialize.after: memcached
+[2015-07-01 09:19:48]framework.session.initialize.before: 
+[2015-07-01 09:19:48]framework.session.initialize.after: server
+[2015-07-01 09:19:48]framework.router.dispatch.before: home/post
+[2015-07-01 09:19:48]framework.controller.construct.before: Home
+[2015-07-01 09:19:48]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:19:48]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:19:48]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:19:48]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:19:48]framework.controller.construct.after: Home
+[2015-07-01 09:19:48]framework.router.dispatch.after: home/post, home, post
+Average: 0.003578375, Longest: 0.011318, Shortest: 0.00014499999999995, Total: 0.058312
+[2015-07-01 09:20:11]framework.configuration.initialize.before: ini
+[2015-07-01 09:20:11]framework.configuration.initialize.after: ini
+[2015-07-01 09:20:11]framework.database.initialize.before: 
+[2015-07-01 09:20:11]framework.database.initialize.after: mysql
+[2015-07-01 09:20:11]framework.cache.initialize.before: 
+[2015-07-01 09:20:11]framework.cache.initialize.after: memcached
+[2015-07-01 09:20:11]framework.session.initialize.before: 
+[2015-07-01 09:20:11]framework.session.initialize.after: server
+[2015-07-01 09:20:11]framework.router.dispatch.before: home/post
+[2015-07-01 09:20:11]framework.controller.construct.before: Home
+[2015-07-01 09:20:11]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:20:11]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:20:11]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:20:11]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:20:11]framework.controller.construct.after: Home
+[2015-07-01 09:20:11]framework.router.dispatch.after: home/post, home, post
+Average: 0.002991625, Longest: 0.011505, Shortest: 0.00012800000000002, Total: 0.048265
+[2015-07-01 09:20:22]framework.configuration.initialize.before: ini
+[2015-07-01 09:20:22]framework.configuration.initialize.after: ini
+[2015-07-01 09:20:22]framework.database.initialize.before: 
+[2015-07-01 09:20:22]framework.database.initialize.after: mysql
+[2015-07-01 09:20:22]framework.cache.initialize.before: 
+[2015-07-01 09:20:22]framework.cache.initialize.after: memcached
+[2015-07-01 09:20:22]framework.session.initialize.before: 
+[2015-07-01 09:20:22]framework.session.initialize.after: server
+[2015-07-01 09:20:22]framework.router.dispatch.before: home/post
+[2015-07-01 09:20:22]framework.controller.construct.before: Home
+[2015-07-01 09:20:22]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:20:22]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/layouts/standard.html
+[2015-07-01 09:20:22]framework.view.construct.before: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:20:22]framework.view.construct.after: C:/wamp/www/SwiftBlog/application/views/home/post.html
+[2015-07-01 09:20:22]framework.controller.construct.after: Home
+[2015-07-01 09:20:22]framework.router.dispatch.after: home/post, home, post
+Average: 0.0150916875, Longest: 0.201867, Shortest: 0.00011700000000003, Total: 0.241723

@@ -396,7 +396,7 @@ namespace Framework {
          * We then split the @validate metadata into a list of validation conditions. If a condition has arguments, we extract the arguments.
          * We then run each validation method on the column data and generate error messages for those validation conditions that failed.
          * 
-         * @return type
+         * @return array
          * @throws Exception\Validation
          */
         public function validate() {
